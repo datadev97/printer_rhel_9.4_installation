@@ -1,7 +1,5 @@
 # Red Hat Enterprise Linux: Printer Installation Guide
 
-![Red Hat Enterprise Linux](https://github.com/vladimak97/displaylink-rhel-9.4-workaround/assets/82274091/a98dbfbf-46ee-43f5-8603-349d1e2ba3fa)
-
 This guide outlines the process I used to install and configure an HP printer (HP 5075) on my laptop running Red Hat Enterprise Linux 9.4 (Developer Edition). This setup allows you to connect and use the HP printer over a network.
 
 Please note that this guide is based on my personal experience and may not be applicable to other versions or systems. However, it could be useful for others who are experiencing similar issues with this operating system.
